@@ -30,7 +30,7 @@ const Contact = () => {
     return (
         <div id='contactPage'>
             <div id="clients">
-                <h1 className="contactPageTitle">My clients</h1>
+                <h1 className="contactPageTitle">My Experience</h1>
                 <span className="clientDesc">
                     I have had the opportunity to work with a diverse group of companies. 
                     Some of the notable companies I have worked with includes
